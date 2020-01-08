@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/aela.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/balgruuf.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/ysolda.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/elisif.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/jareera.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/calcelmo.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/vex.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/tova.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/maiq.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/serana.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/dexion.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/gelebor.png",
+    "clicked": false
+  }
+]
